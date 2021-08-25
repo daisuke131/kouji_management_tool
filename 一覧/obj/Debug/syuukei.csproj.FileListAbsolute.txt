@@ -1,0 +1,9 @@
+E:\社内システム\工事金額管理\集計\obj\Debug\syuukei.Properties.Resources.resources
+E:\社内システム\工事金額管理\集計\obj\Debug\syuukei.syuukei.resources
+E:\社内システム\工事金額管理\集計\obj\Debug\syuukei.csproj.GenerateResource.Cache
+E:\社内システム\工事金額管理\bin\syuukei.dll.config
+E:\社内システム\工事金額管理\bin\syuukei.dll
+E:\社内システム\工事金額管理\bin\syuukei.pdb
+E:\社内システム\工事金額管理\集計\obj\Debug\syuukei.dll
+E:\社内システム\工事金額管理\集計\obj\Debug\syuukei.pdb
+E:\社内システム\工事金額管理\集計\obj\Debug\syuukei.csprojResolveAssemblyReference.cache

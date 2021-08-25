@@ -1,0 +1,2 @@
+CREATE DATABASE uriage_kanri;
+SHOW DATABASES;
